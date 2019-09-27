@@ -3,7 +3,7 @@ templateKey: blog-post
 path: /talker-alert-set
 title: [Talkwalker Alerts] Alert for LGPD - 23 de Setembro
 date: 2016-12-17T15:04:10.000Z
-description: Latest News from our blog: 4 ways to enrich customer intelligence with integrated da...
+description: 
 ---
 
 <div style="background:#f6f6f6;padding:10px">
