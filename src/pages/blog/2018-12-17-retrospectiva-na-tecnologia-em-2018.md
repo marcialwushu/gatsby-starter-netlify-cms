@@ -1,11 +1,13 @@
 ---
 templateKey: blog-post
 path: /making-sense
-title: Retrospectiva na tecnologia em 2018
+title: TalkWalker Alerts - LGPD
 date: 2018-12-17T15:04:10.000Z
-description: Uma lista das pricipais noticias sobre tecnologia, sistemas, linguagens, hacking e criptmoedas.
+description: Latest News from our blog: Streaming tune-in: Instant audience feedback from social.
 ---
 
+Latest News from our blog: Streaming tune-in: Instant audience feedback from social ...
+If you like our Alerts, please help us keep this service free by liking and following!
 
 
 <div>
