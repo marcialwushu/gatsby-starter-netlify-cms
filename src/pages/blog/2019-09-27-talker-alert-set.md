@@ -2,9 +2,11 @@
 templateKey: blog-post
 path: /talker-alert-set
 title: [Talkwalker Alerts] Alert for LGPD 23 de Setembro
-date: 2016-12-17T15:04:10.000Z
-
+date: 2019-09-27T15:04:10.000Z
+description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
 ---
+
+
 
 <div style="background:#f6f6f6;padding:10px">
 <center>
