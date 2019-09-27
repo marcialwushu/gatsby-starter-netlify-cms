@@ -3,7 +3,7 @@ templateKey: blog-post
 path: /making-sense
 title: TalkWalker Alerts - LGPD
 date: 2018-12-17T15:04:10.000Z
-description: Latest News from our blog: Streaming tune-in: Instant audience feedback from social.
+
 ---
 
 
