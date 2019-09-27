@@ -1,13 +1,10 @@
 ---
 templateKey: blog-post
-path: /talker-alert-set
-title: [Talkwalker Alerts] Alert for LGPD 23 de Setembro
-date: 2019-09-27T15:04:10.000Z
+path: /making-sense
+title: Making sense of the SCAA’s new Flavor Wheel
+date: 2016-12-17T15:04:10.000Z
 description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
 ---
-
-
-
 <div style="background:#f6f6f6;padding:10px">
 <center>
 <table cellpadding="0" cellspacing="0" border="0" bgcolor="#FFFFFF" style="border:1px solid #e1e1e1;width:600px">
